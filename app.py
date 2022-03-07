@@ -33,11 +33,11 @@ port = 1883
 # infc.switch_database('drowdet')
 #
 conn = psycopg2.connect(
-    host="202.83.123.69",
-    database="smkiot",
+    host="IP Address PostgreSQL",
+    database="Name DataBase",
     port=5432,
-    user="root",
-    password="postgre321#")
+    user="UserName Postgre",
+    password="Password postgre")
 
 conn.autocommit = True
 cursor = conn.cursor()
