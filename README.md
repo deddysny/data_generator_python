@@ -10,16 +10,6 @@
 ├── lib
 │   # Static files for images and 3d model file
 └── public"><pre><code>$PROJECT_ROOT
-│   # Page files
-├── pages
-│   # React component files
-├── components
-│   # Non-react modules
-├── lib
-│   # Static files for images and 3d model file
-└── public
-</code></pre></div>
-
 
 ## Install the psycopg2 module
 - install `pip install psycopg2`
