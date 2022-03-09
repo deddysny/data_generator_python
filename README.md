@@ -19,6 +19,8 @@
 │   # Static files for images and 3d model file
 └── public
 </code></pre></div>
+
+
 ## Install the psycopg2 module
 - install `pip install psycopg2`
 - install `python app.py build`
