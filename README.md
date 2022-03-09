@@ -2,6 +2,17 @@
 `Create Data Generator with Python Communication and database PosgreSQL`
 ## Getting started
 
+## Prroject Struktur
+$PROJECT_ROOT
+│   # Page files
+├── pages
+│   # React component files
+├── components
+│   # Non-react modules
+├── lib
+│   # Static files for images and 3d model file
+└── public
+
 ## Install the psycopg2 module
 - install `pip install psycopg2`
 - install `python app.py build`
