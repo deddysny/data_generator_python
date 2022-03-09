@@ -4,7 +4,7 @@
 
 ## Prroject Struktur
 $PROJECT_ROOT
-│   # Page files
+│   `Page files`
 ├── pages
 │   # React component files
 ├── components
