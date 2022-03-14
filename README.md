@@ -1,4 +1,4 @@
-﻿# Data_Generator_Python
+﻿# Data_Generator_Python to PostgreSQL
 `Create Data Generator with Python Communication and database PosgreSQL`
 ## Getting started
 
